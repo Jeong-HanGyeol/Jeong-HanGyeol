@@ -18,8 +18,7 @@ Developers who are interested in application development and Apple, and who love
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whd6023@gmail.com)](whd6023@gmail.com)
-  [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://kyeollib.tistory.com/)](https://kyeollib.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://kyeollib.tistory.com/)](https://kyeollib.tistory.com/)
 
 
 🏅 Algorithm Level. 
